@@ -1,7 +1,6 @@
 # Newly added
 .venv/
 .env
-.env.example
 __pycache__/
 *.pyc
 .idea/
@@ -185,3 +184,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+.env.example
