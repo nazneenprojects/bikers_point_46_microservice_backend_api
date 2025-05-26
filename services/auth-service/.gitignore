@@ -1,9 +1,12 @@
 # Newly added
 .venv/
 .env
+.env.example
 __pycache__/
 *.pyc
 .idea/
+./test-cosmosdb/
+./auth-service.zip/
 
 
 
